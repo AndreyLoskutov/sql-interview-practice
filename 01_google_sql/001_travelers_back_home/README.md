@@ -1,4 +1,4 @@
-# #79 Travelers Back Home (Google, Medium)
+# Travelers Back Home (Google, Medium)
 
 ## Problem
 Count how many travelers ended back in their home city based on travel history (start_city → end_city by date).

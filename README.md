@@ -10,8 +10,16 @@ Each problem includes:
 - `README.md` (problem statement + approach)
 - `expected_output.md` (optional)
 
-## Topics
-CTEs, window functions, joins, cohort/retention, attribution prep, audience building, data quality checks.
-
 ## SQL Dialect
 Default: PostgreSQL (easy to adapt to Snowflake/BigQuery).
+
+## Why this repository
+This repository demonstrates how I approach real-world SQL problems:
+clean structure, reproducible setup (Docker), and business-oriented solutions
+focused on analytics and audience building.
+
+## Topics covered
+- CTEs & window functions
+- Audience segmentation
+- Campaign & retention analytics
+- Production-style SQL (Postgres)
