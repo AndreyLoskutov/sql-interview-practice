@@ -1,0 +1,15 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Python / SQLFluff (if you use venv locally)
+.venv/
+__pycache__/
+
+# VS Code local history
+.history/
+
+# Secrets
+.env
+*.key
+*.json
