@@ -1,0 +1,26 @@
+INSERT INTO map_employee_territory (empl_id, territory_id)
+VALUES ('E849', 'T3'),
+    ('E850', 'T3'),
+    ('E851', 'T3'),
+    ('E852', 'T1'),
+    ('E853', 'T2'),
+    ('E854', 'T5'),
+    ('E855', 'T5'),
+    ('E856', 'T4'),
+    ('E857', 'T2');
+INSERT INTO map_customer_territory (cust_id, territory_id)
+VALUES ('C273', 'T3'),
+    ('C274', 'T3'),
+    ('C275', 'T1'),
+    ('C276', 'T1'),
+    ('C277', 'T1'),
+    ('C278', 'T2'),
+    ('C279', 'T2'),
+    ('C280', 'T4'),
+    ('C281', 'T4'),
+    ('C282', 'T4'),
+    ('C283', 'T4'),
+    ('C284', 'T5'),
+    ('C285', 'T5'),
+    ('C286', 'T3'),
+    ('C287', 'T3');
